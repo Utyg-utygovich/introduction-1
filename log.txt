@@ -1,0 +1,2 @@
+22b17fe (HEAD -> main, origin/main) Добавил status.txt
+82d3f85 Добавил README.md
